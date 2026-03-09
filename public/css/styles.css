@@ -1,3 +1,9 @@
+body {
+    font-family: A, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
 .row {
     display: flex;
     /* justify-content: space-around; */
